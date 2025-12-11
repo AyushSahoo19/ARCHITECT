@@ -1,0 +1,7 @@
+{
+  "name": "The Career-Mind Architect",
+  "description": "An intelligent ecosystem architect that builds your future identity, generates personalized career stories, and constructs phase-by-phase execution roadmaps.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
